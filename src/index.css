@@ -33,6 +33,7 @@ body, html{
   ::-webkit-scrollbar-thumb {
     background-color: var(--btnColor); 
     border-radius: 6px; 
+    padding: auto;
   }
   @media only screen and (max-width:900px) {
     .college{
